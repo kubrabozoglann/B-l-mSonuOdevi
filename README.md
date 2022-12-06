@@ -1,2 +1,2 @@
-# B-l-mSonuOdevi
+# BolumSonuOdevi
 patika.dev Ödev3
